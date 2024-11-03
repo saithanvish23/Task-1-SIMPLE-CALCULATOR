@@ -40,3 +40,7 @@ This Java code represents a simple console-based calculator that allows users to
 
 ### Summary
 This code is a basic calculator program that allows users to perform one of four arithmetic operations on two numbers entered via the console. It includes simple error handling for invalid choices and division by zero, enhancing user experience and preventing runtime errors. The program uses a `switch` statement for concise branching logic based on the user’s choice.
+
+
+![Screenshot 2024-11-03 180856](https://github.com/user-attachments/assets/baf9c651-74b3-4422-9280-9039ca1e9d76)
+
